@@ -7,8 +7,10 @@ My name is Negoita Andrei and I am a second-year Computer Science student at the
  * 🔭 &nbsp;I’m currently working on something cool :wink:
  * 📄 Check out my [resume]()
  * 👨‍💻 Most of my projects are available on my github
+ * 📫 How to reach me: <a href="mailto: negoitaandrei0704@gmail.com">negoitaandrei0704@gmail.com</a>
+ * 📍 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/negoita-andrei-84bb12352/)
 ###
-
+# 📊 Github Stats
 <div >
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreinegoita&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=andreinegoita&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -16,7 +18,12 @@ My name is Negoita Andrei and I am a second-year Computer Science student at the
 
 
 
-
+# 📅 Hobbies
+- Solve programming problems 
+- Watch anime and TV shows
+- Read some manga
+- Play videogames
+- etc...
 
 # 🚀 Some tools i use
 
@@ -38,16 +45,11 @@ My name is Negoita Andrei and I am a second-year Computer Science student at the
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
 </div>
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/negoita-andrei-84bb12352/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+### 
 
 
-## 🗂️ Highlight Projects
+
+##  👨‍💻Repositories👨‍💻
 
 <a href="https://github.com/andreinegoita/TEAM-S.T.A.R.-Modern-Project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andreinegoita&repo=TEAM-S.T.A.R.-Modern-Project&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="TEAM-S.T.A.R.-Modern-Project" />
@@ -70,3 +72,13 @@ My name is Negoita Andrei and I am a second-year Computer Science student at the
 </picture>
 
 ###
+
+<h2 align="center">🤝 Support</h2>
+
+<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+</p>
+
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
