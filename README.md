@@ -1,4 +1,5 @@
-![image alt](https://github.com/andreinegoita/andreinegoita/blob/main/NegoitaAndrei.png?raw=true)
+<img src="https://github.com/andreinegoita/andreinegoita/blob/main/NegoitaAndrei.png?raw=true" width="1300" height="300" />
+
 
 
 <h2 align="left">Hi! 😊 My name is Negoita Andrei, and I’m a second-year Computer Science student 👨‍💻. I’m passionate about technology, coding, and building innovative projects. Always eager to learn and explore new ideas in software development!</h2>
