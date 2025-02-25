@@ -1,21 +1,24 @@
 <img src="https://github.com/andreinegoita/andreinegoita/blob/main/NegoitaAndrei.png?raw=true" width="1300" height="300" />
 
 
-# <img align="left" height="30" src="https://tenor.com/view/hand-waving-hand-emoji-gif-14999877618442267107"/> Hello World!
-<h2 align="left">Hi! 😊 My name is Negoita Andrei, and I’m a second-year Computer Science student 👨‍💻. I’m passionate about technology, coding, and building innovative projects. Always eager to learn and explore new ideas in software development!</h2>
-
+# <img  height="30" src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif"/> Hello World!
+My name is Negoita Andrei and I am a second-year Computer Science student at the Faculty of Computer Science and Mathematics, University of Transilvania in Brașov (UNITBV). Passionate about technology and problem-solving through coding, I thrive on tackling new challenges and developing creative solutions. Eager to learn and grow, I constantly seek to expand my knowledge and explore new ideas in software development, with a strong focus on delivering impactful projects.
+ * I am currently studying C#,Java,IOT and web development 👨‍💻
+ * 🔭 &nbsp;I’m currently working on something cool :wink:
+ * 📄 Check out my [resume]()
+ * 👨‍💻 Most of my projects are available on my github
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andreinegoita&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<div >
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreinegoita&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=andreinegoita&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
-###
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hocTllY3B4YXRnMjR0bmo0N2E2b3IzcWpqbmZlZjl6b3NtcWJ3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"  />
 
-###
+
+
+# 🚀 Some tools i use
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -43,7 +46,22 @@
   </a>
 </div>
 
-###
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/andreinegoita/TEAM-S.T.A.R.-Modern-Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andreinegoita&repo=TEAM-S.T.A.R.-Modern-Project&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="TEAM-S.T.A.R.-Modern-Project" />
+</a>
+
+<a href="https://github.com/andreinegoita/LuxembourgMapGraphProject">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andreinegoita&repo=LuxembourgMapGraphProject&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="LuxembourgMapGraphProject" />
+</a>
+
+
+<a href="https://github.com/andreinegoita/CalculatorApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andreinegoita&repo=CalculatorApp&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="CalculatorApp" />
+</a>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/andreinegoita/andreinegoita/blob/output/github-snake-dark.svg" />
