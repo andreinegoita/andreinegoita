@@ -1,4 +1,4 @@
-<h2 align="left">Hi! 😊 My name is Negoita Andrei, and I’m a second-year Computer Science student 👨‍💻. I’m passionate about technology, coding, and building innovative projects. Always eager to learn and explore new ideas in software development!🚀</h2>
+<h2 align="left">Hi! 😊 My name is Negoita Andrei, and I’m a second-year Computer Science student 👨‍💻. I’m passionate about technology, coding, and building innovative projects. Always eager to learn and explore new ideas in software development!</h2>
 
 ###
 
@@ -43,6 +43,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/andreinegoita/andreinegoita/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreinegoita/andreinegoita/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andreinegoita/andreinegoita/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/andreinegoita/andreinegoita/output/github-snake.svg" />
+</picture>
 
 ###
