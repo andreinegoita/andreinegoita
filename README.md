@@ -4,7 +4,7 @@
 # <img  height="30" src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif"/> Hello World!
 My name is Negoita Andrei and I am a second-year Computer Science student at the Faculty of Computer Science and Mathematics, University of Transilvania in Brașov (UNITBV). Passionate about technology and problem-solving through coding, I thrive on tackling new challenges and developing creative solutions. Eager to learn and grow, I constantly seek to expand my knowledge and explore new ideas in software development, with a strong focus on delivering impactful projects.
  * I am currently studying C#,Java,IOT and web development 👨‍💻
- * 🔭 &nbsp;I’m currently working on something cool :wink:
+ * 🔭 &nbsp;I’m currently working on creating a calculator using C# :wink:
  * 👨‍💻 Most of my projects are available on my github
  * 📫 How to reach me: <a href="mailto: negoitaandrei0704@gmail.com">negoitaandrei0704@gmail.com</a>
  * 📍 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/negoita-andrei-84bb12352/)
