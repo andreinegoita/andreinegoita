@@ -63,6 +63,21 @@ My name is Negoita Andrei and I am a second-year Computer Science student at the
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andreinegoita&repo=CalculatorApp&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="CalculatorApp" />
 </a>
 
+<a href="https://github.com/andreinegoita/CalculatorAppMap">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andreinegoita&repo=CalculatorAppMAP&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="CalculatorAppMAP" />
+</a>
+
+
+<a href="https://github.com/andreinegoita/Compiler">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andreinegoita&repo=Compiler&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Compiler" />
+</a>
+
+
+<a href="https://github.com/andreinegoita/WeatherAppJava">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andreinegoita&repo=WeatherAppJava&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="WeatherAppJava" />
+</a>
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/andreinegoita/andreinegoita/blob/output/github-snake-dark.svg" />
